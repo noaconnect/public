@@ -1,0 +1,28 @@
+p {
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  color: #023744;
+  line-height: 1.5!important;
+}
+
+h1 {
+  font-family: Times New Roman, Times, serif;
+  font-size: 30px;
+  color: #023744;
+  line-height: 1.5;
+  font-weight: bold;
+  font-style: italic;
+}
+
+a {
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  color: #c9500e;
+}
+
+.web_view_link {
+  color: #aaaaaa;
+  font-size: 10px;
+  text-decoration: underline;
+  float: right;
+}
